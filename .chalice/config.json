@@ -1,0 +1,5 @@
+{
+  "lambda_arn": "arn:aws:lambda:ap-northeast-1:273518697276:function:save2S3", 
+  "app_name": "save2S3", 
+  "stage": "dev"
+}
